@@ -1,6 +1,7 @@
 # alfred-extended-ASCII-snippets
+An Alfred snippets collection for extended ASCII characters.
 
-Here is an Alfred snippets collection for the extended ASCII characters I previously Googled and then copy/pasted (trademark symbols, currency symbols, etc.)
+Previously, I Googled and then copy/pasted trademark symbols, currency symbols, etc. Now, I just yank it from this snippet collection.
 
 ### Included characters:
 
