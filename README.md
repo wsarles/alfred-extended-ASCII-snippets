@@ -3,6 +3,8 @@ An [Alfred snippets collection](https://www.alfredapp.com/help/features/snippets
 
 Previously, I Googled and then copy/pasted trademark symbols, currency symbols, etc. Now, I just yank it from this snippet collection.
 
+[Download](https://github.com/wsarles/alfred-extended-ASCII-snippets/raw/master/Extended%20ASCII%20Codes.alfredsnippets)
+
 ### Included characters:
 
 | Description                                | Symbol |
