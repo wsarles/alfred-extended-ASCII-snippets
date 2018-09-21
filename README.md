@@ -1,5 +1,5 @@
 # alfred-extended-ASCII-snippets
-An Alfred snippets collection for extended ASCII characters.
+An [Alfred snippets collection](https://www.alfredapp.com/help/features/snippets/) for extended ASCII characters.
 
 Previously, I Googled and then copy/pasted trademark symbols, currency symbols, etc. Now, I just yank it from this snippet collection.
 
